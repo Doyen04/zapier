@@ -170,9 +170,9 @@
 }
 
 .float-left {
-  right: 0;
+  left: 0;
 }
 
 .float-right {
-  left: 0;
+  right: 0;
 }

@@ -16,7 +16,7 @@ function Headline() {
             </div>
             <div className="call-to-action-container">
                 <div className="signupbutton-container">
-                    <SignupButton style={{width: '196px'}} text={"Get started for free"}/>
+                    <SignupButton style={{width: '196px', background: "0px 14px 14px  #ea6d00"}} text={"Get started for free"}/>
                 </div>
                 <p>Requires macOS Ventura (13.0.0) or newer.</p>
             </div>
