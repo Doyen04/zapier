@@ -10,6 +10,11 @@ function App() {
         <div className='body-container'>
             <Header />
             <Headline />
+            <div className='bottom-image-container'>
+                <img src="./src/assets/left.png" alt="" className='float-left'/>
+                <img src="./src/assets/bottom-image.png" alt="" />
+                <img src="./src/assets/right.png" alt="" className='float-right' />
+            </div>
         </div>
     )
 }
