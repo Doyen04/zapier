@@ -12,7 +12,7 @@ function App() {
             <Headline />
             <div className='bottom-image-container'>
                 <img src="./src/assets/left.png" alt="" className='float-left'/>
-                <img src="./src/assets/bottom-image.png" alt="" />
+                <img src="./src/assets/bottom-image.png" alt="" style={{width:"100%"}} />
                 <img src="./src/assets/right.png" alt="" className='float-right' />
             </div>
         </div>
