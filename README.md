@@ -2,6 +2,8 @@
 
 This file was created by Doyen on the 10th of April 2025 using React, TypeScript, and Vite.
 
+## Project Screenshot
+![Project Screenshot](./src/assets/screenshot.png)
 ## File Tree
 
 ```
